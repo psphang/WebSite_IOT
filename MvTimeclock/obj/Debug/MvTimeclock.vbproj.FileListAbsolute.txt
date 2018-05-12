@@ -1,0 +1,9 @@
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\MvTimeclock\bin\MvTimeclock.dll.config
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\MvTimeclock\bin\MvTimeclock.dll
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\MvTimeclock\bin\MvTimeclock.pdb
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\MvTimeclock\bin\MvTimeclock.xml
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\MvTimeclock\obj\Debug\MvTimeclock.Resources.resources
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\MvTimeclock\obj\Debug\MvTimeclock.vbproj.GenerateResource.Cache
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\MvTimeclock\obj\Debug\MvTimeclock.dll
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\MvTimeclock\obj\Debug\MvTimeclock.xml
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\MvTimeclock\obj\Debug\MvTimeclock.pdb

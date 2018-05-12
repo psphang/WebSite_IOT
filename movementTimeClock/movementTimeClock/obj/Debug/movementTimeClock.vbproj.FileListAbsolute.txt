@@ -1,0 +1,11 @@
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\movementTimeClock\movementTimeClock\obj\Debug\movementTimeClock.Resources.resources
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\movementTimeClock\movementTimeClock\obj\Debug\movementTimeClock.vbproj.GenerateResource.Cache
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\movementTimeClock\movementTimeClock\obj\Debug\movementTimeClock.dll
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\movementTimeClock\movementTimeClock\obj\Debug\movementTimeClock.xml
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\movementTimeClock\movementTimeClock\obj\Debug\movementTimeClock.pdb
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\movementTimeClock\movementTimeClock.dll.config
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\movementTimeClock\movementTimeClock.dll
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\movementTimeClock\movementTimeClock.pdb
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\movementTimeClock\movementTimeClock.xml
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\movementTimeClock\movementTimeClock.dll.CodeAnalysisLog.xml
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\movementTimeClock\movementTimeClock.dll.lastcodeanalysissucceeded

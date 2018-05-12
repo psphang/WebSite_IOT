@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>\\10.236.80.189\movementtimeclock</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/movementTimeClock.dll">
+      <publishTime>03/28/2018 15:27:05</publishTime>
+    </File>
+    <File Include="bin/movementTimeClock.pdb">
+      <publishTime>03/28/2018 15:27:05</publishTime>
+    </File>
+    <File Include="bin/movementTimeClock.xml">
+      <publishTime>03/28/2018 15:27:05</publishTime>
+    </File>
+    <File Include="MovementTimeclock.aspx">
+      <publishTime>03/28/2018 08:25:59</publishTime>
+    </File>
+    <File Include="MySQLdata.vb">
+      <publishTime>03/27/2018 11:19:17</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>03/27/2018 17:24:49</publishTime>
+    </File>
+    <File Include="sendmail.vb">
+      <publishTime>03/26/2018 17:35:04</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/28/2018 08:44:43</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\movementTimeClock\movementTimeClock\bin\movementTimeClock.dll.config
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\movementTimeClock\movementTimeClock\bin\movementTimeClock.dll
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\movementTimeClock\movementTimeClock\bin\movementTimeClock.pdb
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\movementTimeClock\movementTimeClock\bin\movementTimeClock.xml
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\movementTimeClock\movementTimeClock\obj\Release\movementTimeClock.Resources.resources
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\movementTimeClock\movementTimeClock\obj\Release\movementTimeClock.vbproj.GenerateResource.Cache
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\movementTimeClock\movementTimeClock\obj\Release\movementTimeClock.dll
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\movementTimeClock\movementTimeClock\obj\Release\movementTimeClock.xml
+C:\Users\Phang\Documents\GitHub\WebSite_IOT\movementTimeClock\movementTimeClock\obj\Release\movementTimeClock.pdb
